@@ -1,3 +1,2 @@
-# providehub
-my scripts for roblox
-# powerful roblox script hub
+# Provide Hub
+# Really Good Roblox Script Hub (WIP)
