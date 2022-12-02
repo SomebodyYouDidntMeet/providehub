@@ -1,4 +1,4 @@
-# Provide Hub  [![Discord Shield](https://discordapp.com/api/guilds/958056630321303602/widget.png)](https://discord.gg/NMfCm8zVFs)
+# Provide Hub  [![Discord Shield]](https://discord.gg/NMfCm8zVFs)
 Free Roblox Script Hub designed for different types of games.  
 Made With :heart: By ***Loading...#2658***
 
